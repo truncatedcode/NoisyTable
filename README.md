@@ -6,7 +6,6 @@ Noisy Table is a Unity project for a VRChat world or asset.
 
 - Unity: `2022.3.22f1`
 - VRChat SDK: Worlds `3.10.3`
-- Main scene: `Assets/noisy.unity`
 
 ## Setup
 
