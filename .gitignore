@@ -134,6 +134,8 @@ InitTestScene*.unity*
 *.csproj.lscache
 .vscode/*
 !.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
 
 /Packages/com.vrchat.*/
 /Packages/com.unity.*/

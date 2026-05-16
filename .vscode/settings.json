@@ -1,0 +1,48 @@
+{
+    "dotnet.defaultSolution": "NoisyTable.sln",
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.gitmodules": true,
+        "**/*.booproj": true,
+        "**/*.csproj.iscache": true,
+        "**/*.csproj.lscache": true,
+        "**/*.pidb": true,
+        "**/*.suo": true,
+        "**/*.unityproj": true,
+        "**/*.user": true,
+        "**/*.userprefs": true,
+        "**/Build": true,
+        "**/Builds": true,
+        "**/Library": true,
+        "**/Logs": true,
+        "**/Obj": true,
+        "**/Temp": true,
+        "**/UserSettings": true,
+        "Assets/SerializedUdonPrograms": true,
+        "Packages/com.unity.*": true,
+        "Packages/com.unity.nuget.*": true,
+        "Packages/com.unity.testtools.*": true,
+        "Packages/com.vrchat.*": true
+    },
+    "search.exclude": {
+        "**/Library": true,
+        "**/Logs": true,
+        "**/Obj": true,
+        "**/Temp": true,
+        "**/UserSettings": true,
+        "Assets/SerializedUdonPrograms": true,
+        "Packages/com.unity.*": true,
+        "Packages/com.unity.nuget.*": true,
+        "Packages/com.unity.testtools.*": true,
+        "Packages/com.vrchat.*": true
+    },
+    "files.watcherExclude": {
+        "**/Library/**": true,
+        "**/Logs/**": true,
+        "**/Obj/**": true,
+        "**/Temp/**": true,
+        "**/UserSettings/**": true,
+        "**/Assets/SerializedUdonPrograms/**": true
+    }
+}

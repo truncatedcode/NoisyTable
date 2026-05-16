@@ -1,2 +1,36 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization.
 * text=auto
+
+# Unity serializes these as text when Visible Meta Files / Force Text is enabled.
+*.anim text eol=lf
+*.asset text eol=lf
+*.controller text eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.overrideController text eol=lf
+*.physicMaterial text eol=lf
+*.playable text eol=lf
+*.prefab text eol=lf
+*.renderTexture text eol=lf
+*.shader text eol=lf
+*.unity text eol=lf
+
+# Common binary assets.
+*.aif binary
+*.aiff binary
+*.blend binary
+*.exr binary
+*.fbx binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.mp3 binary
+*.mp4 binary
+*.ogg binary
+*.png binary
+*.psb binary
+*.psd binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.wav binary
